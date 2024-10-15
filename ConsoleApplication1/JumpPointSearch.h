@@ -373,7 +373,7 @@ private:
 	}
 
 	//대각선에서 나온 직선 탐색 노드
-	//이해안됨
+
 	bool Sub_straight_direction(Node* node, int _dir, int _y, int _x, bool parent)
 	{
 		if (parent)
